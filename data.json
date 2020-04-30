@@ -3,4 +3,11 @@
   "synthese": "https://solidarites-sante.gouv.fr/IMG/jpg/criteres.jpg?1588268268",
   "circulation": "https://solidarites-sante.gouv.fr/IMG/jpg/circulation_virus.jpg?1588268188",
   "reanimation": "https://solidarites-sante.gouv.fr/IMG/jpg/tension_hospitaliere.jpg?1588268235"
-}]
+},
+{
+  "date": "2020-04-01",
+  "synthese": "http://localhost:4200/assets/images/paypal.png",
+  "circulation": "https://solidarites-sante.gouv.fr/IMG/jpg/circulation_virus.jpg?1588268188",
+  "reanimation": "https://solidarites-sante.gouv.fr/IMG/jpg/tension_hospitaliere.jpg?1588268235"
+}
+]
