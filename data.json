@@ -1,9 +1,9 @@
 [
-    {
-    "date": "2020-05-02",
-    "synthese": "https://pbs.twimg.com/media/EW8twf9XgAEqaM3?format=jpg&name=4096x4096",
-    "circulation": "https://pbs.twimg.com/media/EW8sL8lWoAA4mrl?format=jpg&name=4096x4096",
-    "reanimation": "https://pbs.twimg.com/media/EW8so45WAAEttPb?format=jpg&name=4096x4096"
+  {
+    "date": "2020-04-30",
+    "synthese": "https://solidarites-sante.gouv.fr/IMG/jpg/criteres.jpg?1588268268",
+    "circulation": "https://solidarites-sante.gouv.fr/IMG/jpg/circulation_virus.jpg?1588268188",
+    "reanimation": "https://solidarites-sante.gouv.fr/IMG/jpg/tension_hospitaliere.jpg?1588268235"
   },
   {
     "date": "2020-05-01",
@@ -12,9 +12,9 @@
     "reanimation": "https://pbs.twimg.com/media/EW8so45WAAEttPb?format=jpg&name=4096x4096"
   },
   {
-    "date": "2020-04-30",
-    "synthese": "https://solidarites-sante.gouv.fr/IMG/jpg/criteres.jpg?1588268268",
-    "circulation": "https://solidarites-sante.gouv.fr/IMG/jpg/circulation_virus.jpg?1588268188",
-    "reanimation": "https://solidarites-sante.gouv.fr/IMG/jpg/tension_hospitaliere.jpg?1588268235"
+    "date": "2020-05-02",
+    "synthese": "https://pbs.twimg.com/media/EW8twf9XgAEqaM3?format=jpg&name=4096x4096",
+    "circulation": "https://pbs.twimg.com/media/EW8sL8lWoAA4mrl?format=jpg&name=4096x4096",
+    "reanimation": "https://pbs.twimg.com/media/EW8so45WAAEttPb?format=jpg&name=4096x4096"
   }
 ]
