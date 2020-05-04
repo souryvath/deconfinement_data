@@ -17,10 +17,16 @@
     "circulation": "https://solidarites-sante.gouv.fr/IMG/png/carte1-2mai2020.png?1588442495",
     "reanimation": "https://solidarites-sante.gouv.fr/IMG/png/carte2-2mai2020.png?1588442524"
   },
-    {
+  {
     "date": "2020-05-03",
     "synthese": "https://solidarites-sante.gouv.fr/IMG/png/synthese-carte-de-france_030520_page_3.png?1588528255",
     "circulation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_030520_page_1.png?1588528189",
     "reanimation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_030520_page_2.png?1588528218"
+  },
+  {
+    "date": "2020-05-04",
+    "synthese": "https://pbs.twimg.com/media/EXMIP-dXQAoHI3a?format=jpg&name=medium",
+    "circulation": "https://pbs.twimg.com/media/EXMIljhWsAAT0lN?format=jpg&name=medium",
+    "reanimation": "https://pbs.twimg.com/media/EXMJAcgX0AIiLzx?format=jpg&name=medium"
   }
 ]
