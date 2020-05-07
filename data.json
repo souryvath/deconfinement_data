@@ -39,8 +39,6 @@
     "date": "2020-05-06",
     "synthese": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_060520_page_3.png?1588787840",
     "circulation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_060520_page_1.png?1588787773",
-    "reanimation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_060520_page_2.png?1588787803",
-    "plan": "https://www.cascoronavirus.fr/assets/images/plan_deconfinement.jpg",
-    "planText: ""
+    "reanimation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_060520_page_2.png?1588787803"
   }
 ]
