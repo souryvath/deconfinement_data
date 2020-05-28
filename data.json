@@ -41,11 +41,18 @@
     "circulation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_060520_page_1.png?1588787773",
     "reanimation": "https://solidarites-sante.gouv.fr/IMG/png/carte-de-france_060520_page_2.png?1588787803"
   },
-    {
+  {
     "date": "2020-05-07",
     "synthese": "https://pbs.twimg.com/media/EXbDIY0XQAEiRzR?format=jpg&name=medium",
     "circulation": "https://pbs.twimg.com/media/EXbEK0TWoAk_bO2?format=jpg&name=medium",
     "reanimation": "https://pbs.twimg.com/media/EXbDp9VXsAILjhF?format=jpg&name=medium",
     "test": "https://pbs.twimg.com/media/EXbEvr5WAAM1aAf?format=jpg&name=medium"
+  },
+  {
+    "date": "2020-05-28",
+    "synthese": "https://pbs.twimg.com/media/EZHTs4AXQAAo4Y6?format=jpg&name=large",
+    "circulation": "",
+    "reanimation": "",
+    "test": ""
   }
 ]
