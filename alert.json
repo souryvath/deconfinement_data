@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2020-09-26",
+    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/les_differents_niveaux_d_alerte.jpg?1601027980"
+    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte.jpg?1601027980",
+    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_renforcee.jpg?1601027980",
+    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_maximale.jpg?1601027981",
+    "zoneUrgenceSanitaire": "" 
+  }
+]
