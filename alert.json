@@ -6,5 +6,13 @@
     "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_renforcee.jpg?1601027980",
     "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_maximale.jpg?1601027981",
     "zoneUrgenceSanitaire": "" 
+  },
+  {
+    "date": "2020-10-05",
+    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_5.jpg?1601981105",
+    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_1.jpg?1601981106",
+    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_2.jpg?1601981106",
+    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_3.jpg?1601981107",
+    "zoneUrgenceSanitaire": "" 
   }
 ]
