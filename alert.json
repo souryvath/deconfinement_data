@@ -22,5 +22,13 @@
     "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive2.jpg?1602251183",
     "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive3.jpg?1602251183",
     "zoneUrgenceSanitaire": "" 
+  },
+    {
+    "date": "2020-10-12",
+    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive5.jpg?1602510618",
+    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive1.jpg?1602510749",
+    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive2.jpg?1602510750",
+    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive3.jpg?1602510750",
+    "zoneUrgenceSanitaire": "" 
   }
 ]
