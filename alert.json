@@ -1,43 +1,52 @@
 [
-  {
-    "date": "2020-09-26",
-    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/les_differents_niveaux_d_alerte.jpg?1601027980",
-    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte.jpg?1601027980",
-    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_renforcee.jpg?1601027980",
-    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_maximale.jpg?1601027981",
-    "zoneUrgenceSanitaire": ""
-  },
-  {
-    "date": "2020-10-05",
-    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_5.jpg?1601981105",
-    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_1.jpg?1601981106",
-    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_2.jpg?1601981106",
-    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_3.jpg?1601981107",
-    "zoneUrgenceSanitaire": ""
-  },
-  {
-    "date": "2020-10-10",
-    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive5.jpg?1602251182",
-    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive1.jpg?1602251182",
-    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive2.jpg?1602251183",
-    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive3.jpg?1602251183",
-    "zoneUrgenceSanitaire": ""
-  },
-  {
-    "date": "2020-10-12",
-    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive5.jpg?1602510618",
-    "zoneAlerte": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive1.jpg?1602510749",
-    "zoneAlerteRenforcee": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive2.jpg?1602510750",
-    "zoneAlerteMaximale": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive3.jpg?1602510750",
-    "zoneUrgenceSanitaire": ""
-  },
-  {
-    "date": "2020-10-17",
-    "zoneAlerteNiveaux": "https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/png/carte_situation_sanitaire_2020-10-17.png?1602872002",
-    "zoneAlerte": "",
-    "zoneAlerteRenforcee": "",
-    "zoneAlerteMaximale": "",
-    "zoneUrgenceSanitaire": "",
-    "text": "<p><strong>L’ensemble du territoire est placé en état d’urgence sanitaire.</strong></p>\n<p><strong>9 territoires font l’objet d’un couvre-feu de 21 h à 6 h&nbsp;:</strong></p>\n<ul class=\"spip\"><li> Paris et région Île-de-France</li><li> Grenoble-Alpes-Métropole</li><li> Métropole européenne de Lille</li><li> Métropole de Lyon</li><li> Métropole d’Aix-Marseille-Provence</li><li> Montpellier-Méditerranée-Métropole</li><li> Métropole Rouen-Normandie</li><li> Saint-Etienne Métropole</li><li> Toulouse Métropole</li></ul>\n<p><strong>Mesures prises sur l’ensemble du territoire&nbsp;:</strong></p>\n<ul class=\"spip\"><li> Pas de rassemblement à plus de 6 personnes dans l’espace public.</li><li> Télétravail à au moins 50&nbsp;%.</li><li> Interdiction des événements festifs dans les salles des fêtes et polyvalentes.</li><li> Abaissement de la jauge à 5 000 personnes avec respect d’un siège vacant entre deux spectateurs ou groupe de 6 personnes dans les établissements recevant du public (ERP) clos assis.</li><li> Ouverture des salles de sport sur protocole.</li></ul>\n<p><strong>Mesures prises pour les territoires sous couvre-feu&nbsp;: </strong></p>\n<ul class=\"spip\"><li> <strong>Un couvre-feu est instauré de 21 h à 6 h</strong>&nbsp;: cela veut dire que les sorties et déplacements seront interdits de 21 h à 6 h du matin sous peine d’une amende de 135 € et jusqu’à 3 750 € en cas de récidive.</li></ul><ul class=\"spip\"><li> Des dérogations sont prévues pour&nbsp;:\n<ul class=\"spip\"><li> raisons de santé</li><li> raisons professionnelles</li><li> aider un proche en situation de dépendance</li><li> des raisons de transport</li><li> sortir son animal de compagnie dans un rayon de 1 km</li></ul></li></ul>"
-  }
+   {
+      "date":"2020-09-26",
+      "zoneAlerteNiveaux":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/les_differents_niveaux_d_alerte.jpg?1601027980",
+      "zoneAlerte":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte.jpg?1601027980",
+      "zoneAlerteRenforcee":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_renforcee.jpg?1601027980",
+      "zoneAlerteMaximale":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/zone_alerte_maximale.jpg?1601027981",
+      "zoneUrgenceSanitaire":""
+   },
+   {
+      "date":"2020-10-05",
+      "zoneAlerteNiveaux":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_5.jpg?1601981105",
+      "zoneAlerte":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_1.jpg?1601981106",
+      "zoneAlerteRenforcee":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_2.jpg?1601981106",
+      "zoneAlerteMaximale":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/carte_05102020_-_3.jpg?1601981107",
+      "zoneUrgenceSanitaire":""
+   },
+   {
+      "date":"2020-10-10",
+      "zoneAlerteNiveaux":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive5.jpg?1602251182",
+      "zoneAlerte":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive1.jpg?1602251182",
+      "zoneAlerteRenforcee":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive2.jpg?1602251183",
+      "zoneAlerteMaximale":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive3.jpg?1602251183",
+      "zoneUrgenceSanitaire":""
+   },
+   {
+      "date":"2020-10-12",
+      "zoneAlerteNiveaux":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive5.jpg?1602510618",
+      "zoneAlerte":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive1.jpg?1602510749",
+      "zoneAlerteRenforcee":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive2.jpg?1602510750",
+      "zoneAlerteMaximale":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/jpg/diapositive3.jpg?1602510750",
+      "zoneUrgenceSanitaire":""
+   },
+   {
+      "date":"2020-10-17",
+      "zoneAlerteNiveaux":"https://solidarites-sante.gouv.fr/local/adapt-img/1024/10x/IMG/png/carte_situation_sanitaire_2020-10-17.png?1602872002",
+      "zoneAlerte":"",
+      "zoneAlerteRenforcee":"",
+      "zoneAlerteMaximale":"",
+      "zoneUrgenceSanitaire":"",
+      "text":"<p><strong>L’ensemble du territoire est placé en état d’urgence sanitaire.</strong></p>\n<p><strong>9 territoires font l’objet d’un couvre-feu de 21 h à 6 h&nbsp;:</strong></p>\n<ul class=\"spip\"><li> Paris et région Île-de-France</li><li> Grenoble-Alpes-Métropole</li><li> Métropole européenne de Lille</li><li> Métropole de Lyon</li><li> Métropole d’Aix-Marseille-Provence</li><li> Montpellier-Méditerranée-Métropole</li><li> Métropole Rouen-Normandie</li><li> Saint-Etienne Métropole</li><li> Toulouse Métropole</li></ul>\n<p><strong>Mesures prises sur l’ensemble du territoire&nbsp;:</strong></p>\n<ul class=\"spip\"><li> Pas de rassemblement à plus de 6 personnes dans l’espace public.</li><li> Télétravail à au moins 50&nbsp;%.</li><li> Interdiction des événements festifs dans les salles des fêtes et polyvalentes.</li><li> Abaissement de la jauge à 5 000 personnes avec respect d’un siège vacant entre deux spectateurs ou groupe de 6 personnes dans les établissements recevant du public (ERP) clos assis.</li><li> Ouverture des salles de sport sur protocole.</li></ul>\n<p><strong>Mesures prises pour les territoires sous couvre-feu&nbsp;: </strong></p>\n<ul class=\"spip\"><li> <strong>Un couvre-feu est instauré de 21 h à 6 h</strong>&nbsp;: cela veut dire que les sorties et déplacements seront interdits de 21 h à 6 h du matin sous peine d’une amende de 135 € et jusqu’à 3 750 € en cas de récidive.</li></ul><ul class=\"spip\"><li> Des dérogations sont prévues pour&nbsp;:\n<ul class=\"spip\"><li> raisons de santé</li><li> raisons professionnelles</li><li> aider un proche en situation de dépendance</li><li> des raisons de transport</li><li> sortir son animal de compagnie dans un rayon de 1 km</li></ul></li></ul>"
+   },
+   {
+      "date":"2020-10-23",
+      "zoneAlerteNiveaux":"https://pbs.twimg.com/media/Ek8Pxh8VgAAscaQ?format=jpg&name=large",
+      "zoneAlerte":"",
+      "zoneAlerteRenforcee":"",
+      "zoneAlerteMaximale":"",
+      "zoneUrgenceSanitaire":"",
+      "text":"<p><strong>Mesures prises sur l’ensemble du territoire&nbsp;:</strong></p>\n<ul class=\"spip\"><li> Pas de rassemblement à plus de 6 personnes dans l’espace public.</li><li> Télétravail à au moins 50&nbsp;%.</li><li> Interdiction des événements festifs dans les salles des fêtes et polyvalentes.</li><li> Abaissement de la jauge à 5 000 personnes avec respect d’un siège vacant entre deux spectateurs ou groupe de 6 personnes dans les établissements recevant du public (ERP) clos assis.</li><li> Ouverture des salles de sport sur protocole.</li></ul>\n<p><strong>Mesures prises pour les territoires sous couvre-feu&nbsp;: </strong></p>\n<ul class=\"spip\"><li> <strong>Un couvre-feu est instauré de 21 h à 6 h</strong>&nbsp;: cela veut dire que les sorties et déplacements seront interdits de 21 h à 6 h du matin sous peine d’une amende de 135 € et jusqu’à 3 750 € en cas de récidive.</li></ul><ul class=\"spip\"><li> Des dérogations sont prévues pour&nbsp;:\n<ul class=\"spip\"><li> raisons de santé</li><li> raisons professionnelles</li><li> aider un proche en situation de dépendance</li><li> des raisons de transport</li><li> sortir son animal de compagnie dans un rayon de 1 km</li></ul></li></ul>"
+   }
 ]
